@@ -1,0 +1,3 @@
+com.example.trainbot.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
