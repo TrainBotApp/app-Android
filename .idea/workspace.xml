@@ -46,7 +46,10 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb250cdf-40c6-4a9c-a16d-b723c86247b4" name="Changes" comment="" />
+    <list default="true" id="cb250cdf-40c6-4a9c-a16d-b723c86247b4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,6 +87,9 @@
       </state>
     </system>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -107,6 +113,7 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "com.google.services.firebase.aqiPopupShown": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/moldluca/AndroidStudioProjects/TrainBot2",
     "settings.build.tools.auto.reload": "ALL",
@@ -203,12 +210,12 @@
       <map>
         <entry key="com.example.trainbot">
           <value>
-            <CheckInfo lastCheckTimestamp="1747326314197" />
+            <CheckInfo lastCheckTimestamp="1747418522751" />
           </value>
         </entry>
         <entry key="com.example.trainbot.test">
           <value>
-            <CheckInfo lastCheckTimestamp="1747326314202" />
+            <CheckInfo lastCheckTimestamp="1747418522750" />
           </value>
         </entry>
       </map>
